@@ -31,7 +31,7 @@ If you use our TFT classifier for LSTID forecasting in your work, please use the
       title={Short-term forecast for the occurrence of Large Scale Travelling Ionospheric Disturbances at European middle latitudes using Neural Networks.},
       author={Themelis, K., Belehaki, A., Koutroumbas, K., Segarra, A., de Paula, V., Navas-Portella, V., & Altadill, D. },
       year={2024},
-      eprint={https://doi.org/10.5281/zenodo.14537425}
+      doi={https://doi.org/10.5281/zenodo.14537425}
 }
 
 
