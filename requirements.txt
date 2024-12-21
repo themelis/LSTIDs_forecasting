@@ -1,0 +1,7 @@
+numpy 
+sklearn
+pandas
+torch>=2.5.1
+darts>=0.31.0
+optuna
+seaborn
