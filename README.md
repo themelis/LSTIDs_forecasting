@@ -12,7 +12,7 @@ To install required python packages you should use the following command
 pip install -r requirements.txt
 ```
 
-# Model Zoo
+# Models
 We provide a forecasting model for each Digisonde station, i.e., Sopron, Juliusruh, Durbes, Ebro, trained over different time periods.
 
 # Notebooks
