@@ -6,7 +6,7 @@
 
 **About the code**. 
 
-#Installation 
+# Installation 
 To install required python packages you should use the following command
 ```
 pip install -r requirements.txt
