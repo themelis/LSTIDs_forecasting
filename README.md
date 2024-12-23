@@ -32,7 +32,7 @@ Notebooks are presented to load the TFT forecasting models. Available models per
 # Output
 The output of each model is the forecasted prediction of the model, given a horecast horizon interval of 5 min and a threshold of .7. Please read our paper for further information. The predicted output is presented in a figure containing both input drivers and predicted LSTIDs.
 
-![figure]([[http://url/to/img.png](https://github.com/themelis/LSTIDs_forecasting/blob/main/images/output_sample.png)](/images/output_sample.png))
+![figure]([https://github.com/themelis/LSTIDs_forecasting/blob/main/images/output_sample.png](/images/output_sample.png))
 
 ## Citation
 If you use our TFT classifier for LSTID forecasting in your work, please use the following BibTeX entries:
