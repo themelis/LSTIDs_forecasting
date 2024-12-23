@@ -41,7 +41,7 @@ The output of each model is the forecasted prediction of the model, given a hore
 ## Citation
 If you use our TFT classifier for LSTID forecasting in your work, please use the following BibTeX entries:
 
-<details>
+<details open>
 <summary> bibtex </summary>
 
 ```latex
