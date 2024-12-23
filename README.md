@@ -13,11 +13,15 @@ pip install -r requirements.txt
 ```
 
 # Models
-We provide a forecasting model for each Digisonde station, i.e., Sopron, Juliusruh, Durbes, Ebro, trained over different time periods.
+We provide a forecasting model for each Digisonde station, i.e., Sopron, Juliusruh, Durbes, Ebro, trained over different time periods. All models are accessible through a corresponding notebook file that is named after the training and validation period of the model.
 
 # Notebooks
 
-Notebooks contain our proposed methodology. 
+Notebooks are presented to load the TFT forecasting models. Available models per station are
+1. Dourbes 
+2. Juliusruh
+3. Sopron
+4. Ebro 
 
 
 ## Citation
