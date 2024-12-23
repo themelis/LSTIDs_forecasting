@@ -18,11 +18,21 @@ We provide a forecasting model for each Digisonde station, i.e., Sopron, Juliusr
 # Notebooks
 
 Notebooks are presented to load the TFT forecasting models. Available models per station are
-1. Dourbes 
-2. Juliusruh
-3. Sopron
-4. Ebro 
+1. Dourbes
+   - Training period 2022/01/01 - 2023/06/30. Use notebook here.
+   - Training period 2022/01/01 - 2024/07/24. Use notebook here.
+3. Juliusruh
+   - Training period 2022/01/01 - 2023/06/30. Use notebook here.
+5. Sopron
+   - Training period 2022/01/01 - 2023/06/30. Use notebook here.
+   - Training period 2022/01/01 - 2023/06/30. Use notebook here.
+7. Ebro
+   - Training period 2022/01/01 - 2023/06/30. Use notebook [here](notebooks/EB040/EB040_TFTmodel_20220101_20230630.ipynb).
 
+# Output
+The output of each model is the forecasted prediction of the model, given a horecast horizon interval of 5 min and a threshold of .7. Please read our paper for further information. The predicted output is presented in a figure containing both input drivers and predicted LSTIDs.
+
+![figure]([http://url/to/img.png](https://github.com/themelis/LSTIDs_forecasting/blob/main/images/output_sample.png))
 
 ## Citation
 If you use our TFT classifier for LSTID forecasting in your work, please use the following BibTeX entries:
