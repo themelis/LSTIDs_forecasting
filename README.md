@@ -17,7 +17,7 @@ We provide a forecasting model for each Digisonde station, i.e., Sopron, Juliusr
 
 # Notebooks
 
-Notebooks are presented to load the TFT forecasting models. Available models per station are
+Notebooks are provided to load the TFT forecasting models. Available models per station are
 1. Dourbes
    - Training period 2022/01/01 - 2023/06/30. Use notebook [here](notebooks/DB049/DB049_TFTmodel_20220101_20230630.ipynb).
    - Training period 2022/01/01 - 2024/07/24. Use notebook [here](notebooks/DB049/DB049_TFTmodel_20220101_20240724.ipynb).
