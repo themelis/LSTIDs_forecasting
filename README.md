@@ -36,6 +36,8 @@ The output of each model is the forecasted prediction of the model, given a hore
 <img width="800" alt="image" src="https://github.com/themelis/LSTIDs_forecasting/blob/main/images/output_sample.png">
 </div>
 </details>
+
+
 ## Citation
 If you use our TFT classifier for LSTID forecasting in your work, please use the following BibTeX entries:
 
